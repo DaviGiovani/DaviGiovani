@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Davi Giovani!</h1>
 <h3 align="center">I´m a developer from Brasil.</h3>
 
+- 🔭 I’m currently studying in **Unifil**
+
+- 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to collaborate on **TATA**
+
+- 🤝 I’m looking for help with learning **Java**
+
 - 📫 How to reach me: **davipower2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
