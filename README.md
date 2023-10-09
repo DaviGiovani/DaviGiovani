@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **TATA**
-
 - 🤝 I’m looking for help with learning **Java**
 
 - 📫 How to reach me: **davipower2005@gmail.com**
