@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with learning **Java**
 
-- 📫 How to reach me: **davipower2005@gmail.com**
+- 📫 How to reach me: **ctt.davigiovani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
